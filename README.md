@@ -10,7 +10,8 @@ The project uses historical stock data of the following companies:
 - USAK
 - UVSP
 
-The data is pre-downloaded and stored in CSV files, which are accessed in the notebook through Google Drive.
+The data is pre-downloaded and stored in CSV files, which are accessed in the notebook through Google Drive. You can download the CSV file from the following link:
+[Download CSV File](https://drive.google.com/file/d/1XEOgoRgCB1yJwfkDzlwHyHcbczJf2dNi/view?usp=drive_link)
 
 ## Machine Learning Models
 
